@@ -61,6 +61,12 @@
              "SPI_MISO": "PA_6",
              "SPI_CLK":  "PA_5",
              "SPI_CS":   "PB_12"
-       }
+       },
+        "NUCLEO_F767ZI": {
+            "SPI_MOSI": "PB_5",
+            "SPI_MISO": "PA_6",
+            "SPI_CLK": "PA_5",
+            "SPI_CS": "PD_14"
+        }
     }
 }
